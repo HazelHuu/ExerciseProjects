@@ -1,0 +1,10 @@
+D:\Net_Work\WindowsFormsApp\CalculatorApp2\bin\Debug\CalculatorApp2.exe.config
+D:\Net_Work\WindowsFormsApp\CalculatorApp2\bin\Debug\CalculatorApp2.exe
+D:\Net_Work\WindowsFormsApp\CalculatorApp2\bin\Debug\CalculatorApp2.pdb
+D:\Net_Work\WindowsFormsApp\CalculatorApp2\obj\Debug\CalculatorApp2.csprojAssemblyReference.cache
+D:\Net_Work\WindowsFormsApp\CalculatorApp2\obj\Debug\CalculatorApp2.Form1.resources
+D:\Net_Work\WindowsFormsApp\CalculatorApp2\obj\Debug\CalculatorApp2.Properties.Resources.resources
+D:\Net_Work\WindowsFormsApp\CalculatorApp2\obj\Debug\CalculatorApp2.csproj.GenerateResource.cache
+D:\Net_Work\WindowsFormsApp\CalculatorApp2\obj\Debug\CalculatorApp2.csproj.CoreCompileInputs.cache
+D:\Net_Work\WindowsFormsApp\CalculatorApp2\obj\Debug\CalculatorApp2.exe
+D:\Net_Work\WindowsFormsApp\CalculatorApp2\obj\Debug\CalculatorApp2.pdb
